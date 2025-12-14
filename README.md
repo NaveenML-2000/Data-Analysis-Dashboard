@@ -111,6 +111,3 @@ where Booking_Status = 'Success';
 select Booking_ID, Incomplete_Rides_Reason 
 from bookings 
 where Incomplete_Rides = 'Yes';
-
-## Dashboard
-- 
